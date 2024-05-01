@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "interactive-ml-playground"
+  site-url: "https://stepetal.github.io/interactive-ml-playground"
+  description: "Small project aimed to demonstrate usage of some ML models and essential libraries"
+  repo-branch: master
+  repo-url: "https://github.com/stepetal/interactive-ml-playground"
